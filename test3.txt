@@ -11,3 +11,5 @@ this is test3.txt
 
 5
 asdf
+
+new line in test3.txt

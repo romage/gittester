@@ -1,3 +1,5 @@
 test 5 contents
 asdf
 asdf1
+
+new line in test5.txt
